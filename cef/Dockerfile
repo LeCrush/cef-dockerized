@@ -1,4 +1,4 @@
-FROM debian:latest
+FROM debian:10.12
 
 # arch="arm64", arch="" (no-arm)
 ARG arch=arm64
